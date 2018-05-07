@@ -1,0 +1,15 @@
+* echo "Fneqvavn" |  tr '[A-Za-z]' '[N-ZA-Mn-za-m]' 
+# does rot13
+
+* sed 's/./& /7' inputfile > outfile    
+# inserts space at position 7, LOOKING AT YOU NVSS
+
+* /desktop/gnome/applications/terminal/exec
+# gnome 2 setting for `open in terminal' 
+
+* Touch all files in dir and all subdirs: "find . -exec touch {} \;" 
+# Sorry SciNet 
+
+# Windows background colours:
+## Win 98 olive teal - 008080
+## Win 00 dark blue - 3A6EA5

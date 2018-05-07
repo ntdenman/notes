@@ -1,0 +1,8 @@
+* 120mm case fan needs a 4.5" diameter hole
+** Hole is centered in 105mm-width square of screw holes
+
+* Cisco 2950 brackets mount with a #8-15 flat-head sheet-metal-style screw
+
+* microATX Hole B is non-spec but frequently used in enthusiast ATX boards
+
+* 
