@@ -7,7 +7,8 @@
 * /desktop/gnome/applications/terminal/exec
 # gnome 2 setting for `open in terminal' 
 
-* Touch all files in dir and all subdirs: "find . -exec touch {} \;" 
+* find . -exec touch {} \;
+# Touch all files in dir and all subdirs
 # Sorry SciNet 
 
 # Windows background colours:
